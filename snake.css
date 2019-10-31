@@ -1,0 +1,19 @@
+#scoreCanvas {
+  background: #eee;
+  display: block;
+  margin: 0 auto;
+  border: solid 5pt darkgray;
+  z-index: -1;
+  position: absolute;
+  left: 50%;
+  top: 70px;
+  transform: translate(-50%, 0);}
+#gameCanvas {
+  display: block;
+  margin: 0 auto;
+  border: solid 5pt darkgray;
+  z-index: 0;
+  position: absolute; 
+  left: 50%;
+  top: 70px;
+  transform: translate(-50%, 0);}
