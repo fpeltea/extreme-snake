@@ -1,5 +1,5 @@
 // Modify this to use a different scores URL
-const scoresAddress = "https://snake-scores.herokuapp.com";
+const scoresAddress = "127.0.0.1:3000";
 // // // // // // // // // // // // // // // // // // // //
 
 var canvas;
